@@ -35,7 +35,6 @@ public class dataSourceTest {
 			System.out.println(sqlSession);
 			System.out.println(con);
 			System.out.println("OK");
-			
 		} catch(Exception e) {
 			fail(e.getMessage());
 		}
