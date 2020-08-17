@@ -13,9 +13,6 @@
         </ul>
     </div>
 </nav>
-<div style="position : fixed; bottom: 5%; right: 3%;" data-toggle="tooltip" data-placement="top" title="설문지 등록">
-	<i class="fas fa-pen-square" style="width: 50px; height: 50px; cursor: pointer;"></i>
-</div>
 <!-- Page Content-->
 <div class="container-fluid p-0">
     <!-- About-->
@@ -113,6 +110,6 @@
 	  height: '300px',
 	  initialEditType: 'wysiwyg'
 	});
-
+	
 	editor.getHtml();
 </script>

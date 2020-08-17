@@ -17,9 +17,9 @@
 	<bean id="hikariConfig" class="com.zaxxer.hikari.HikariConfig">
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver"></property>
-		<property name="jdbcUrl" value="jdbc:mysql://localhost:3306/poll"></property>
-		<property name="username" value="choi"></property>
-		<property name="password" value="1111"></property>
+		<property name="jdbcUrl" value="jdbc:mysql://ywc9403.cafe24.com/ywc9403?characterEncoding=UTF-8&amp;serverTimezone=UTC"></property>
+		<property name="username" value="ywc9403"></property>
+		<property name="password" value="q1w2e3r4!"></property>
 	</bean>
 
 	<!-- HikariCP configuration -->
