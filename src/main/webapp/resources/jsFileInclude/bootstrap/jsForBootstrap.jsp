@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="description" content="" />
 <meta name="author" content="" />
-<title>Resume - Start Bootstrap Theme</title>
+<title>SMS - for managing survey</title>
 <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
 <!-- Font Awesome icons (free version)-->
 <script src="/resources/bootstrap/font/all.js"></script>
